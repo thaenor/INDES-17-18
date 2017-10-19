@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "..\Hello\Hello\Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registry", "Registry\Registry.csproj", "{B69A5BEB-8015-4812-928F-86E8E20C828C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeoroplane", "Aeoroplane\Aeoroplane.csproj", "{09005640-2B93-476C-BC8B-352DE6772264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{B69A5BEB-8015-4812-928F-86E8E20C828C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B69A5BEB-8015-4812-928F-86E8E20C828C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B69A5BEB-8015-4812-928F-86E8E20C828C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09005640-2B93-476C-BC8B-352DE6772264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09005640-2B93-476C-BC8B-352DE6772264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09005640-2B93-476C-BC8B-352DE6772264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09005640-2B93-476C-BC8B-352DE6772264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
